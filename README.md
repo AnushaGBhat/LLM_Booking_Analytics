@@ -11,6 +11,6 @@ This project builds an AI-powered system for analyzing hotel booking data, gener
 ## Installation
 1. Clone the repository:
 
-   git clone https://https://github.com/AnushaGBhat/LLM_Booking_Analytics.git
+   git clone https://github.com/AnushaGBhat/LLM_Booking_Analytics.git
    cd LLM_Booking_Analytics
 
