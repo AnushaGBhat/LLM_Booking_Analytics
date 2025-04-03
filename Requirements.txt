@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+seaborn
+faiss-cpu
+chromadb
+sentence-transformers
